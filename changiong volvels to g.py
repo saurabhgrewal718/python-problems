@@ -12,5 +12,5 @@ ph = input("Enter your word : ")
 print(trans(ph))    
 
 
-
+''
 
