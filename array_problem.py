@@ -10,7 +10,7 @@ for i in range(1,len(nums)):
 
 print(res)
 
-
+# the bitwise XOR will give 0 for same numbers and return the number for the others
 
 
 # def singleNumber(nums:a) :
